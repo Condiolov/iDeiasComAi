@@ -1,0 +1,5 @@
+Com base nessa historia:
+{RESUMO}
+crei apenas esse capitulo com detalhes aproximadamente 7 mil caracteres, resumo do capitulo:
+{RESUMO_CAPITULO}
+Fique apenas dentro deste capitulo detalhando ao maximo os acontecimentos. Sem perder o foco da historia e do resumo.
